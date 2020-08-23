@@ -6,6 +6,7 @@ namespace MatteneRobot
 {
     public class ProcessStock
     {
+        //testing 
         public ProcessStock(string stock, string savedPrice, string currentPrice)
         {
 
